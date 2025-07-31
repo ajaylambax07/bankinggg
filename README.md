@@ -18,6 +18,6 @@ A simple, clean, and responsive banking user interface built using only **HTML5*
 ## 🛠️ Technologies Used
 
 - HTML5  
-- CSS3 (Flexbox for layout)
+- CSS
 
-## 🚀 Getting Started
+Made By Ajay Lamba 23bcs12064
